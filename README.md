@@ -1,4 +1,4 @@
-### Hi there, I'm Andressa 👋
+### Hi, I'm Andressa 👋
 
 - 🔭 I'm currently working as a fullstack developer on Holmes/Redspark
 - 🌱 I'm currently learning ruby on rails
